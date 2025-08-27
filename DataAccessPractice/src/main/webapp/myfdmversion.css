@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 0%;
+}
+
+.center {
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+}
+
+.flexContainer {
+	display: flex;
+}
+
+.cat1 {
+	margin-right: 0%;
+	text-align: right;
+	width: 15%;
+	background-color: black;
+}
+
+#bannernav {
+	background-color: black;
+}
+
+#bannernav .cat1 a:link, #bannernav .cat1 a:visited {
+	background-color: black;
+	color: rgb(333, 333, 333);
+	width: 100%;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+#bannernav .cat1 a:hover {
+	border-top-width: 3px;
+	border-top-color: skyblue;
+	border-top-style: solid;
+	color: rgb(333, 333, 333);
+	width: 100%;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	color: rgb(333, 333, 333);
+}

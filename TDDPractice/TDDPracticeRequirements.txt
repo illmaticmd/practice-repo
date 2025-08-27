@@ -1,0 +1,16 @@
+TDD Practice - Requirements
+===========================
+
+You are provided the interface file Dispensable. You are required to build an implementing class called QuartersDispenser that fulfills this interface contract. You are to use the JUnit and Mockito frameworks, as necessary, to verify the functionality of your implementing class. Your implementing class should function as described below.
+
+For the implementation of method exchange(), the implementing class must return the correct number of quarters for the US Banknote value that is passed into this method: 
+
+	• 4 if the denomination is one dollar.
+	• 20 if the denomination is five dollars.
+	• 40 if the denomination is ten dollars.
+
+Valid banknotes are defined in the provided enum Denominations.
+
+For the implementation of method refill(), a method addQuarters() should be invoked on an Attendant instance. The Attendant class is provided- do not edit the methods that are found inside this class!
+
+For the implementation of empty(), a method makeDeposit() should be invoked on an Attendant instance if the dollar amount stored is $500 or greater. However, if the dollar amount is $0 then throw a Java RuntimeException. To determine the dollar amount, the method getDollar() should be invoked on an Attendant instance. 

@@ -1,0 +1,128 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 0%; <!--
+	font-family:;
+	-->
+}
+
+.offtheMarginpls {
+	margin: 10px;
+}
+
+.flexContainer {
+	display: flex;
+}
+
+/*centering*/
+.center {
+	justify-content: center;
+	text-align: center;
+}
+
+.centerItems {
+	align-items: center;
+}
+
+/*centering*/
+
+/*MENU BAR STUFF*/
+.dropbtn, button {
+	background-color: Black;
+	color: white;
+	padding: 16px;
+	font-size: 22px;
+	font-family: sans-serif;
+	border: none;
+	font-weight: 900;
+	cursor: pointer;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: Black;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	z-index: 1;
+	color: white;
+}
+
+.dropdown-content a {
+	color: white;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.dropdown-content a:hover {
+	background-color: Grey;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.dropdown:hover .dropbtn {
+	background-color: Black;
+}
+
+.menubar {
+	display: grid;
+	grid-template-areas: 'logo searchBar shop accounts carts stores';
+	background-color: black;
+	color: white;
+	width: 100%;
+	grid-gap: 5px;
+	place-content: space-evenly;
+	padding-bottom: 1%;
+}
+
+.bottombar {
+	background-color: black;
+	color: white;
+	width: 100%;
+	padding-bottom: 1%;
+}
+
+.section{
+	width:30%;
+}
+
+.bottombar .section a:link, .bottombar a:visited {
+	text-decoration: none;
+	color: white;
+}
+.bottombar a:hover {
+	color: #ff8080;
+}
+
+/*menubars end here*/
+
+/* footer */
+footer {
+	border-top-width: 1px;
+	border-top-style: solid;
+	color: white;
+	background-color: black;
+}
+
+footer a:link, footer a:visited {
+	text-decoration: none;
+	color: gray;
+}
+
+footer a:hover {
+	color: #ff8080;
+}
+
+.footercontent {
+	margin: 0px 3px 0px 3px;
+}

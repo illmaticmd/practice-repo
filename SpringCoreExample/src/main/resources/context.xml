@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="name1" class="java.lang.String">
+		<constructor-arg value="Tehrrih"></constructor-arg>
+	</bean>
+
+	<bean id="genericPuppy" class="com.fdmgroup.beans.Puppy" scope="prototype"></bean>
+
+
+	<bean id="shihTzu" class="com.fdmgroup.beans.Puppy"> <!-- using setters -->
+		<property name="texture" value="Silky floor"></property>
+		<property name="age" value="1"></property>
+		<property name="mass" value="1"></property>
+		<property name="name" value="Terrih"></property>
+		<property name="type" value="Shihtzu"></property>
+	</bean>
+
+	<bean id="chowChow" class="com.fdmgroup.beans.Puppy">  <!-- using constructor -->
+		<constructor-arg name="texture" value="Mega fluffy" />
+		<constructor-arg name="age" value="2" type="int" />
+		<constructor-arg name="mass" value="300" />
+		<constructor-arg name="name" value="Fluffington the Third" />
+		<property name="type" value="Chow"></property>
+	</bean>
+
+	<bean id="shelter" class="com.fdmgroup.beans.Shelter" init-method="advertiseShelter" autowire="byType">
+		<constructor-arg>
+			<list>
+				<ref bean="shihTzu" />
+				<ref bean="chowChow" />
+			</list>
+		</constructor-arg>
+	</bean>
+
+	<bean id="cruella" class="com.fdmgroup.Cruella"></bean>
+</beans>
