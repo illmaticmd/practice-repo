@@ -1,0 +1,165 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\learning-scala-3_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter1b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter1b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter1b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter1b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter1b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter1b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter1e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter1e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter1e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter1e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter1e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter1e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter2b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter2b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter2b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter2b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter2b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter2b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter2e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter2e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter2e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter2e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter2e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter2e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter3b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter3b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter3b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter3b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter3b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter3b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter3e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter3e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter3e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter3e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter3e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter3e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$TrafficLight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$TrafficLight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$TrafficLight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$TrafficLight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$Triathlon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$Triathlon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b$Triathlon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b$Triathlon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$Country$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$Country$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$Country.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$Country.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$TrafficLight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$TrafficLight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$TrafficLight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$TrafficLight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$Triathlon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$Triathlon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$Triathlon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$Triathlon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$UnitedKingdom$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$UnitedKingdom$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e$UnitedKingdom.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e$UnitedKingdom.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter4e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter4e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5b$Film$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5b$Film$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5b$Film.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5b$Film.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5b$Rating$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5b$Rating$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5b$Rating.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5b$Rating.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5e$Film$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5e$Film$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5e$Film.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5e$Film.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5e$Rating$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5e$Rating$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5e$Rating.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5e$Rating.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5e$TicketPrice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5e$TicketPrice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5e$TicketPrice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5e$TicketPrice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter5e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter5e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter6b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter6b$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter6b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter6b.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter6b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter6b.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter6e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter6e$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter6e$Destination$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter6e$Destination$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter6e$Destination.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter6e$Destination.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter6e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter6e.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chapter6e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Chapter6e.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Example$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Example.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Example.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Example.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\McDesmond\Documents\CoderMans\Scala\Ex_Files_Learning_Scala\Exercise Files\learning-scala-3\target\scala-3.1.0\classes\Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,5 @@
+Scala
+
+Scala runs in JVM
+
+Object Oriented and Functional Programming
